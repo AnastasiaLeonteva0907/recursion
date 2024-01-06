@@ -1,3 +1,13 @@
 task1/obj
 task1/bin/Debug/net7.0
 recursion.sln
+task2/obj
+task1/task1.csproj
+task2/task2.csproj
+task2/bin/Debug/net7.0
+bin
+task2/bin/Debug/net7.0/task2.deps.json
+task2/bin/Debug/net7.0/task2.dll
+task2/bin/Debug/net7.0/task2.exe
+task2/bin/Debug/net7.0/task2.pdb
+task2/bin/Debug/net7.0/task2.runtimeconfig.json
