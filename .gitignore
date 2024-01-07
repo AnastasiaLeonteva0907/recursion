@@ -11,3 +11,5 @@ task2/bin/Debug/net7.0/task2.dll
 task2/bin/Debug/net7.0/task2.exe
 task2/bin/Debug/net7.0/task2.pdb
 task2/bin/Debug/net7.0/task2.runtimeconfig.json
+task3/obj
+task3/task3.csproj
